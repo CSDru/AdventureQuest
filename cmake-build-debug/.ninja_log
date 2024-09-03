@@ -1,0 +1,12 @@
+# ninja log v5
+8	368	7470482127030063	CMakeFiles/AdventureQuest.dir/Item.cpp.obj	87cff31c8e471cc2
+13	422	7470482127579606	CMakeFiles/AdventureQuest.dir/Adventure.cpp.obj	2ebe2e3fe6c0c12c
+1	425	7470482127634726	CMakeFiles/AdventureQuest.dir/main.cpp.obj	df9456b7e011b1a9
+5	491	7470482128289793	CMakeFiles/AdventureQuest.dir/Player.cpp.obj	816a0e940dbf1157
+492	635	7470482129681940	AdventureQuest.exe	9c66ca403d60b19
+3	271	7470484098624940	CMakeFiles/AdventureQuest.dir/Adventure.cpp.obj	2ebe2e3fe6c0c12c
+271	364	7470484099530062	AdventureQuest.exe	9c66ca403d60b19
+2	322	7470486234210710	CMakeFiles/AdventureQuest.dir/Adventure.cpp.obj	2ebe2e3fe6c0c12c
+323	415	7470486235102561	AdventureQuest.exe	9c66ca403d60b19
+2	269	7470490541708156	CMakeFiles/AdventureQuest.dir/Adventure.cpp.obj	2ebe2e3fe6c0c12c
+269	360	7470490542588166	AdventureQuest.exe	9c66ca403d60b19
